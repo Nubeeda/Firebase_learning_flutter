@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657549718965",
+    "project_id": "my-app-294bf",
+    "storage_bucket": "my-app-294bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657549718965:android:cdc625a2c6e87158f0d5fc",
+        "android_client_info": {
+          "package_name": "com.example.foodplanets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD60_N3BTacPxfy-wS8SEpfArRxA23c7yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
